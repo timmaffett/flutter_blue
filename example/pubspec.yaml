@@ -11,6 +11,8 @@ dependencies:
 
 
   quiver: ^3.0.0  #^2.1.5
+  #syncfusion_flutter_charts:
+  #  path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\18.4.0.30\Packages\flutter_charts
 
 dev_dependencies:
   flutter_test:
@@ -18,8 +20,8 @@ dev_dependencies:
   flutter_blue:
     path: ../
   e2e: ^0.2.1
-  flutter_driver:
-    sdk: flutter
+  #flutter_driver:
+  #  sdk: flutter
 
 flutter:
   uses-material-design: true
